@@ -1,0 +1,5 @@
+*.sw[opqrst]
+local/bin/
+local/lib/
+local/man/
+notes.txt
